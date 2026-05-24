@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Suhas CP</h1>
-<h3 align="center">Working on to be a frontend dev</h3>
+<h1 align="center">Hi 👋, I'm Suhas CP - Data Engineer</h1>
+<h3 align="center">Working on Data/ Agentic AI</h3>
 
-- 🌱 I’m currently learning **React,DSA**
+- 🌱 I’m currently learning **Agentic AI**
 
-- 📫 How to reach me **suhascp17@gmail.com**
+- 📫 How to reach me **suhascp7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
